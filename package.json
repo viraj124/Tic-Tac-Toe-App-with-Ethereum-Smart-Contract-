@@ -1,0 +1,31 @@
+{
+  "name": "Tic Tac Toe App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dapp_univeristy/web3_examples.git"
+  },
+  "keywords": [
+    "web3.js",
+    "web3",
+    "ethereum"
+  ],
+  "author": "Viraz",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "ethereumjs-tx": "^2.0.0",
+    "web3": "^1.0.0-beta.55"
+  }
+}
